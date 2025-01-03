@@ -6,7 +6,7 @@
 }
 body {
   /* background: #001e4d; */
-  background-image: url(images/background.png);
+  background-image: url(Background.png);
   display: flex;
   justify-content: center;
   align-items: center;
