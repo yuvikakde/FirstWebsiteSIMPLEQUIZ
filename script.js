@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "What does OOP stand for?",
+        question: "What does 'OOP' stand for?",
         answers: [
             { text: "Object Oriented Protocol", correct: false },
             { text: "Object Oriented Programming ", correct: true },
